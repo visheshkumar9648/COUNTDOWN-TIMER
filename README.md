@@ -1,2 +1,2 @@
 # COUNTDOWN-TIMER
-Countdown timer using HTML , CSS , Javascript
+countdown timer built using HTML, CSS, and JavaScript! 🚀⏳ Perfect for creating anticipation for upcoming events or deadlines
